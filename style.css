@@ -45,8 +45,9 @@ nav a {
     font-size: 25px;
     border-radius: 10px;
     border: 3px solid black;
-    margin: 150px;
+    margin: 50px;
 }
 nav {
-     text-align: center;
+    text-align: center;
+    margin: 20px;
 }
