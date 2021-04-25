@@ -43,7 +43,7 @@ header {
 nav a {
     text-align: center;
     font-size: 25px;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 3px solid black;
     margin: 50px;
 }
